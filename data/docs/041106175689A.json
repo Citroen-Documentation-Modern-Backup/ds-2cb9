@@ -1,0 +1,18 @@
+{
+ "ref": "041106175689A",
+ "refDisplay": "0411 06 175689A",
+ "title": "RECYCLAGE GAZ ECHAPPEMENT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 13182",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0012"
+  }
+ ]
+}

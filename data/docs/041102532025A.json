@@ -1,0 +1,23 @@
+{
+ "ref": "041102532025A",
+ "refDisplay": "0411 02 532025A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FFJ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FFJ",
+   "fctId": "FCT0303"
+  }
+ ]
+}

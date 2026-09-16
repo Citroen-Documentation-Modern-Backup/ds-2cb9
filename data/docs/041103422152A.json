@@ -1,0 +1,18 @@
+{
+ "ref": "041103422152A",
+ "refDisplay": "0411 03 422152A",
+ "title": "TRAVERSES SUSP AR BARRES RESSORT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0031"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "041103422111D",
+ "refDisplay": "0411 03 422111D",
+ "title": "TRAVERSES SUSP AR BARRES RESSORT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 12201",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FFJ",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FFJ",
+   "fctId": "FCT0031"
+  }
+ ]
+}

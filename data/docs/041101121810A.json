@@ -1,0 +1,23 @@
+{
+ "ref": "041101121810A",
+ "refDisplay": "0411 01 121810A",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": " SAUF DEPOLLUTION EURO 4(MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F6S",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0005"
+  }
+ ]
+}

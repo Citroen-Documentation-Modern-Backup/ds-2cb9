@@ -1,0 +1,33 @@
+{
+ "ref": "041103440550B",
+ "refDisplay": "0411 03 440550B",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 12166",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Z",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Y",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F3Y",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0F3Y",
+   "fctId": "FCT0339"
+  }
+ ]
+}

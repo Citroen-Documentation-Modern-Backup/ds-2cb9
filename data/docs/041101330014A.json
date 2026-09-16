@@ -1,0 +1,18 @@
+{
+ "ref": "041101330014A",
+ "refDisplay": "0411 01 330014A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4R ET CP 15 X 76 ET BVM BE4 L ET DIFFERENTIEL 84",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

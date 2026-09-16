@@ -1,0 +1,23 @@
+{
+ "ref": "041103434206C",
+ "refDisplay": "0411 03 434206C",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 12047",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F6S",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0027"
+  }
+ ]
+}

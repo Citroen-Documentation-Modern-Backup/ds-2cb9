@@ -1,0 +1,18 @@
+{
+ "ref": "041102532080B",
+ "refDisplay": "0411 02 532080B",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION ET SANS STOP AND START",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBG",
+   "fctId": "FCT0303"
+  }
+ ]
+}

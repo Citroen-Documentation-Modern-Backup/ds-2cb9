@@ -1,0 +1,23 @@
+{
+ "ref": "041101331001A",
+ "refDisplay": "0411 01 331001A",
+ "title": "CARTER EMBRAYAGE BVM",
+ "nature": "",
+ "applicability": "BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0017"
+  }
+ ]
+}

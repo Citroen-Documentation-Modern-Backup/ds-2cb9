@@ -1,0 +1,18 @@
+{
+ "ref": "041101231055A",
+ "refDisplay": "0411 01 231055A",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBG",
+   "fctId": "FCT0009"
+  }
+ ]
+}

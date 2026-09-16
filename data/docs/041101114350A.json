@@ -1,0 +1,18 @@
+{
+ "ref": "041101114350A",
+ "refDisplay": "0411 01 114350A",
+ "title": "CARTER DE DISTRIBUTION BOUCHONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Z",
+   "fctId": "FCT0007"
+  }
+ ]
+}

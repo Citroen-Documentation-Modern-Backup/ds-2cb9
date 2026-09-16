@@ -1,0 +1,18 @@
+{
+ "ref": "041101334450A",
+ "refDisplay": "0411 01 334450A",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCE ET CP 17 X 71",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

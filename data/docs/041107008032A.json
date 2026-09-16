@@ -1,0 +1,133 @@
+{
+ "ref": "041107008032A",
+ "refDisplay": "0411 07 008032A",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": "PORTE LAT G D COULISSANTE ET 2 PORTES AR BATTANTES ET 1 VITRE ENTREBA + 1FIX 2 COTES ET PORTE A FAUX AR COURT ET SANS GIRAFON",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBJ",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBG",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBX",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Z",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Y",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FQ4",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBW",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBF",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FCK",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FCA",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FFJ",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F6S",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FKE",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FKM",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FE8",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F3Y",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FQ4",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FBW",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FBF",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FFJ",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FKE",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FE8",
+   "fctId": "FCT0146"
+  }
+ ]
+}

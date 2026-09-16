@@ -1,0 +1,23 @@
+{
+ "ref": "041104314579A",
+ "refDisplay": "0411 04 314579A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "BVM BE4R ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBW",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FBW",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "041101312040B",
+ "refDisplay": "0411 01 312040B",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBF",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FBF",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FBF",
+   "fctId": "FCT0016"
+  }
+ ]
+}

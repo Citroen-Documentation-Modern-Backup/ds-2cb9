@@ -1,0 +1,18 @@
+{
+ "ref": "041101002285B",
+ "refDisplay": "0411 01 002285B",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS DAM 13118FL JUSQU’A DAM 13320FL OU  DEPUIS DAM 13114FV JUSQU’A DAM 13320FV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0049"
+  }
+ ]
+}

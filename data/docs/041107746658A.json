@@ -1,0 +1,28 @@
+{
+ "ref": "041107746658A",
+ "refDisplay": "0411 07 746658A",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE GAUCHE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0F3Y",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FQ4",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FBF",
+   "fctId": "FCT0129"
+  }
+ ]
+}

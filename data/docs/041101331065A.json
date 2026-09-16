@@ -1,0 +1,18 @@
+{
+ "ref": "041101331065A",
+ "refDisplay": "0411 01 331065A",
+ "title": "FIXATIONS CARTER BVM",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 5(MOTEUR) ET BVM MC ET BVM6",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

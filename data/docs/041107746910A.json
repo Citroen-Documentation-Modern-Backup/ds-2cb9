@@ -1,0 +1,28 @@
+{
+ "ref": "041107746910A",
+ "refDisplay": "0411 07 746910A",
+ "title": "PLANCHER JUPE PANNEAU LONGERON AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0F3Y",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FQ4",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FBF",
+   "fctId": "FCT0116"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "041103434225A",
+ "refDisplay": "0411 03 434225A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11655 JUSQU’A OPR 11983",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0F3Y",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0F3Y",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0F3Y",
+   "fctId": "FCT0027"
+  }
+ ]
+}

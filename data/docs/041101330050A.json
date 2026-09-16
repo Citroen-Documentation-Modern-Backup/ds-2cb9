@@ -1,0 +1,28 @@
+{
+ "ref": "041101330050A",
+ "refDisplay": "0411 01 330050A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 L ET CP 17 X 71",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FQ4",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D5B&B0F=B0FQ4",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0D2M&B0F=B0FQ4",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "041105501215A",
+ "refDisplay": "0411 05 501215A",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FCK",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FCA",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "041101002285C",
+ "refDisplay": "0411 01 002285C",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13321",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0049"
+  }
+ ]
+}

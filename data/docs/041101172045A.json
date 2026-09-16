@@ -1,0 +1,18 @@
+{
+ "ref": "041101172045A",
+ "refDisplay": "0411 01 172045A",
+ "title": "SURALIMENTATION GRAISSAGE DU TURBO",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CB9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
+   "fctId": "FCT0014"
+  }
+ ]
+}
