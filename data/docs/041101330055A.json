@@ -1,18 +1,1 @@
-{
- "ref": "041101330055A",
- "refDisplay": "0411 01 330055A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MC ET BVM6 ET BVM MCE ET CP 17 X 71",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CB9",
-   "variantKey": "B0D=B0DJ0&B0F=B0FBM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"041101330055A","refDisplay":"0411 01 330055A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MC ET BVM6 ET BVM MCE ET CP 17 X 71","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CB9","variantKey":"B0D=B0DJ0&B0F=B0FBM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CB9)(B0FBM)(DVQ21)(B0G06)(DBMAF)(DCW79)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0411","grp":"67","grp2":"01","maj":"20111022","numfich":"330055A"},[["appl",{},["{(?2CB9)(B0FBM)(DVQ21)(B0G06)(DBMAF)(DCW79)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00085312","path":"/img/pr/12/0008/00085312.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ps":"1","ref":"00002231E6","refpg":"2231 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CB9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X71"]]]],["reporg",{},[["monte",{},["EA60"]],["monte",{},["EAKG"]],["monte",{},["EA07"]]]]]],["pr",{"codesi":"009391","ref":"00002232F3","refpg":"2232 F3"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CB9)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X71"]]]],["reporg",{},[["monte",{},["EA60"]],["monte",{},["EAKF"]],["monte",{},["EA07"]],["monte",{},["(EAK7)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"318, 73, 11","shape":"circle"},[]]]]]]]]]]}

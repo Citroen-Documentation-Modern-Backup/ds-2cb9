@@ -1,18 +1,1 @@
-{
- "ref": "041101330012A",
- "refDisplay": "0411 01 330012A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4R ET CP 15 X 76 ET BVM BE4 N ET DIFFERENTIEL 84",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CB9",
-   "variantKey": "B0D=B0DJ0&B0F=B0FCA",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"041101330012A","refDisplay":"0411 01 330012A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4R ET CP 15 X 76 ET BVM BE4 N ET DIFFERENTIEL 84","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CB9","variantKey":"B0D=B0DJ0&B0F=B0FCA","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CB9)(B0FCA)(DVQ30)(DCW54)(DBM36)(DMY08)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0411","grp":"67","grp2":"01","maj":"20111022","numfich":"330012A"},[["appl",{},["{(?2CB9)(B0FCA)(DVQ30)(DCW54)(DBM36)(DMY08)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00087516","path":"/img/pr/16/0008/00087516.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"0000223143","refpg":"2231 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CB9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X76"]]]],["reporg",{},[["monte",{},["(DP5F)"]],["monte",{},["DP56"]]]]]],["pr",{"codesi":"009391","ref":"00002232C0","refpg":"2232 C0"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CB9)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X76"]]]],["reporg",{},[["monte",{},["DP56"]],["monte",{},["(DPE6)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"124, 99, 11","shape":"circle"},[]]]]]]]]]]}
